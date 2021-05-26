@@ -1,7 +1,7 @@
 # Hello, I’m Aman Bohra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right'>
 
 - 👀 I’m interested in AR/VR 
-- 🌱 I’m currently learning FULL STACK
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on AR/VR projects
 - 📫 How to reach me amanbohra6.sb@gmail.com
 
